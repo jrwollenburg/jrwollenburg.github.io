@@ -1,16 +1,10 @@
 {
   "files": {
-    "main.css": "/jrwollenburg.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/jrwollenburg.github.io/static/js/main.fb34fb4f.js",
-    "static/js/787.28cb0dcd.chunk.js": "/jrwollenburg.github.io/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/jrwollenburg.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/jrwollenburg.github.io/static/js/main.e703555b.js",
     "index.html": "/jrwollenburg.github.io/index.html",
-    "main.073c9b0a.css.map": "/jrwollenburg.github.io/static/css/main.073c9b0a.css.map",
-    "main.fb34fb4f.js.map": "/jrwollenburg.github.io/static/js/main.fb34fb4f.js.map",
-    "787.28cb0dcd.chunk.js.map": "/jrwollenburg.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.e703555b.js.map": "/jrwollenburg.github.io/static/js/main.e703555b.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.fb34fb4f.js"
+    "static/js/main.e703555b.js"
   ]
 }
